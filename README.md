@@ -8,4 +8,4 @@ In the second part of the code, the `image_to_data` function from pytesseract is
 Finally, the `image_to_string` function from pytesseract is used to get the entire text from the image, which is printed to the console.
 
 # RESULT
-<"img src=https://github.com/asadbek002/Text_recognition/blob/main/result.png" width="500" height="300">
+<img src="https://github.com/asadbek002/Text_recognition/blob/main/result.png" width="500" height="300">
