@@ -6,3 +6,6 @@ In the first part of the code, the image is read and its dimensions are determin
 In the second part of the code, the `image_to_data` function from pytesseract is used to get the bounding boxes and text for each word in the image. These boxes are then drawn on the image and labeled as in the first part.
 
 Finally, the `image_to_string` function from pytesseract is used to get the entire text from the image, which is printed to the console.
+
+# RESULT
+<img src="https://github.com/asadbek002/Camera_Calibaration/blob/master/result_screenshot.jpg" width="500" height="300">
